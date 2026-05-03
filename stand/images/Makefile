@@ -1,5 +1,6 @@
 .include <bsd.init.mk>
 
+
 FILES+=	freebsd-brand-rev.png freebsd-brand.png freebsd-install-brand-rev.png \
 	freebsd-logo-rev.png xisfbn-brand.png xisfbn-logo-rev.png
 
